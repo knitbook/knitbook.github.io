@@ -1,0 +1,22 @@
+body{
+	background-color: #ACA5FF
+}
+	
+h1{
+	color:#56527F;
+	text-align:center;
+	text-decoration: blink;
+}
+
+#slogan{
+	color:#56527F;
+	font-style: italic;
+	text-align: center;
+}
+
+h2{
+	color:#56527F;
+}
+p{
+	color:#2B2940;
+}
