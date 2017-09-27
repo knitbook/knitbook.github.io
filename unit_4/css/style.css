@@ -1,23 +1,32 @@
 @import url('https://fonts.googleapis.com/css?family=Clicker+Script|Dawning+of+a+New+Day|Merriweather|Over+the+Rainbow|Pompiere');
 body{
 	background-color: #ACA5FF
-}
-	
+}	
 h1{
 	color:#56527F;
 	text-align:center;
-	text-decoration: blink;
+	font-family: 'Dawning of a New Day', cursive;
+	font-size: xx-large;
 }
-
 #slogan{
 	color:#56527F;
 	font-style: italic;
 	text-align: center;
-}
+	font-size: medium;
+	font-family: 'Merriweather'
 
+}
 h2{
 	color:#56527F;
+	font-family: 'Dawning of a New Day', cursive;
+	font-size: x-large;
 }
 p{
 	color:#2B2940;
+	text-align: center;
+	font-family: 'Merriweather'
+}
+ul{
+	color:#2B2940;
+	font-family: 'Merriweather'
 }
