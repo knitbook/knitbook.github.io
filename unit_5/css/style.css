@@ -1,7 +1,32 @@
 @import url('https://fonts.googleapis.com/css?family=Clicker+Script|Dawning+of+a+New+Day|Merriweather|Over+the+Rainbow|Pompiere');
 body{
-	background-color: #ACA5FF
+	background-color: #ACA5FF;
 }	
+header{
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;	
+}
+nav{
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+aside{
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+article{
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+footer{
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
 h1{
 	color:#56527F;
 	text-align:center;
