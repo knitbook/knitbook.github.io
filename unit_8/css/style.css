@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Clicker+Script|Dawning+of+a+New+Day|Merriweather|Over+the+Rainbow|Pompiere');
+body{
+    background-color:#5c5c8a;
+}	
+header{
+	background-color: #e0e0eb;
+	border: 1% black solid;
+	padding: 2%;	
+}
+nav{
+	background-color: #c2c2d6;
+	border: 1% black solid;
+	padding: 2%;
+}
+article{
+	background-color: #c2c2d6;
+	border: 1% black solid;
+	padding: 2%;
+}
+footer{
+	background-color: #e0e0eb;
+	border: 1% black solid;
+	padding: 2%;
+}
+h1{
+	color:#5c5c8a;
+	text-align:center;
+	font-family: 'Dawning of a New Day', cursive;
+	font-size: xx-large;
+}
+#slogan{
+	color:#5c5c8a;
+	font-style: italic;
+	text-align: center;
+	font-size: medium;
+	font-family: 'Merriweather'
+}
+#left {
+    border: 1% black solid;
+    padding: 2%;
+    float:left;
+}
+#right {
+    border: 1% black solid;
+    padding: 2%;
+}
+#Yarn {
+	float: left;
+	width: 43%;
+}
+#Schedule{
+	float:left;
+	width: 20%;
+}
+#Resources{
+	float:left;
+	width: 25%;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+h2{
+	color:#5c5c8a;
+	font-family: 'Dawning of a New Day', cursive;
+	font-size: x-large;
+}
+p{
+	color:#5c5c8a;
+	text-align: center;
+	font-family: 'Merriweather'
+}
+ul{
+	color:#5c5c8a;
+	font-family: 'Merriweather'
+}
+@media (max-width: 1000px) {
+	#Yarn {
+    float:none;
+    width:100%;
+	}
+	#Schedule {
+    float:none;
+    width:100%;
+	}
+	#Resources {
+    float:none;
+    width:100%;
+	}
+}
